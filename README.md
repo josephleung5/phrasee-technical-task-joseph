@@ -7,6 +7,7 @@ First, run the development server:
 npm install
 npm run dev
 ```
+Access localhost through this url: http://localhost:8000)
 
 ### Endpoint
 ```bash
@@ -19,5 +20,3 @@ PUT /markNotificationAsRead
 ```bash
 npm run test
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
